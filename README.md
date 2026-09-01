@@ -1,5 +1,7 @@
 # rusty_codec
 
+> **Archived — merged into [Rusty Mill](https://github.com/Rusty-Mill/rusty_mill).** This crate now lives at [`crates/rusty_codec`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_codec) in the Rusty Mill monorepo, which is where active development, issues, and pull requests happen now. This standalone repo is kept for historical reference only.
+
 A `#![no_std]` + `alloc` sovereign TOML configuration parser and binary
 buffer serialization crate.
 
